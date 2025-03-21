@@ -70,6 +70,16 @@ margin:0;
 > [!CAUTION]
 > Si te equivocas te vas al peo
 
+## Enlaces
+
+[Esto es un enlace](https://enti.cat)
+
+[https://enti.cat]
+
+
+
+
+
 
 
 
