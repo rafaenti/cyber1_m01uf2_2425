@@ -72,12 +72,14 @@ margin:0;
 
 ## Enlaces
 
-[Esto es un enlace](https://enti.cat)
+Mira que esto es [un enlace](https://enti.cat) a la mejor web del planeta
 
 [https://enti.cat](https://enti.cat)
 
 
+## Imágenes
 
+![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 
 
