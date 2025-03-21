@@ -13,7 +13,7 @@ Esto es otro párrafo
 
 Vamos a trabajar con **estilos de letra** para dar *énfasis*
 
-Y esto es ***MUCHO ÉNFASIS***
+Y esto es ***MUCHO ÉNFASIS*** **hola \***
 
 ## Bloques en Markdown
 > Esto es una cita
@@ -25,6 +25,21 @@ Pero también...
 
 > Podemos tener
 >> Citas entro de citas :D
+
+## Listados
+
+### Sin orden
+
+- Un elemento
+- Otro elemento
+- Esto es otro elemento de *lista*
+
+### Listados ordenados
+
+1. Primero
+2. Segundo
+3. Tercero
+4. Cuarto
 
 
 
