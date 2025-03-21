@@ -41,10 +41,17 @@ Pero también...
 3. Tercero
 4. Cuarto
 
+## Código
 
+Esto es javascript `console.log("hola")`
 
+Y esto es un bloque de código
 
-
+```css
+body{
+margin:0;
+}
+```
 
 
 
