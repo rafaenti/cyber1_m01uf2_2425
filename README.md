@@ -81,7 +81,12 @@ Mira que esto es [un enlace](https://enti.cat) a la mejor web del planeta
 
 ![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
+## Listas de tareas
 
+- [ ] Pollo
+- [ ] Papel higiénico
+- [x] Agua
+- [ ] Lechuga
 
 
 
